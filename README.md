@@ -27,6 +27,4 @@ pip install pandas
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-## Screenshots
 
-![App Screenshot]()
